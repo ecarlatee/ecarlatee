@@ -2,7 +2,6 @@
 
 **cybersecurity enthusiast.**
 
- - anti-élites, anti-pédos, anti-ASE, anti-tout & pro-rien
 
 ----
 
