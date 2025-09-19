@@ -6,9 +6,6 @@
 
 ----
 
-## [+] Skills
-
-- Fear Christ
 
 ## [-] Contact Me
 
