@@ -2,7 +2,6 @@
 
 **cybersecurity enthusiast.**
 
-[!(https://bluemoji.io/emoji/double-thumbs-up)]
 
 ----
 
