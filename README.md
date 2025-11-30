@@ -26,11 +26,15 @@ ____
 
 ## [+] Contact
 
-[![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/users/876923835469922344)
-[![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://eyeswoke.com)
+<div align="left">
+  <a href="https://t.me/ec4rlate" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
 - pdsaidpur150@bpdb.gov.bd
 ---
+
 
 
 
