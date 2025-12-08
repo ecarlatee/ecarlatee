@@ -24,7 +24,7 @@
 ____
 
 
-## [+] Contact
+## -------{ - Contact
 
 <div align="left">
   <a href="https://t.me/ec4rlate" target="_blank">
@@ -43,6 +43,7 @@ ____
 <div align="center">
   <img height="200" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
 </div>
+
 
 
 
