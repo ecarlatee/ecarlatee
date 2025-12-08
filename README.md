@@ -36,8 +36,9 @@ ____
                                                                     pdsaidpur150@bpdb.gov.bd
 ---
 <div align="center">
-  <img height="200" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
+  <img height="430" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
 </div>
+
 
 
 
