@@ -32,17 +32,13 @@ ____
   </a>
 </div>
 
-<div align="right">
-  <a href="https://www.instagram.com/begin2believe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 - pdsaidpur150@bpdb.gov.bd
 ---
 <div align="center">
   <img height="200" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
 </div>
+
 
 
 
