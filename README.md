@@ -1,8 +1,5 @@
 # [¿]
 
-<p align="center" style="margin-bottom: 12px;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=3500&pause=800&color=6AC6FF&vCenter=true&width=500&lines=**_th3_Fl4g_1s = n0t::h3R3//==+**" alt="Typing SVG" align="center" />
-</p>
 
 **_th3_Fl4g_1s = n0t::h3R3//==+**
 
