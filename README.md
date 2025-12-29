@@ -6,7 +6,7 @@
 
 <details>
   <summary>More about myself</summary>
-
+<br>
 - ■■■■ : ■■■■■
 - ■■■■■ : ■■■■■■ ■■■■
 - ■■■■■■■■■■
