@@ -38,7 +38,7 @@
 ____
 
 
-##  [>Contact://]
+##  [Contact]
 
 
 <div align="center">
