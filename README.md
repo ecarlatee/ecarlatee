@@ -5,11 +5,11 @@
 
 
 <details>
-  <summary>More about me</summary>
+  <summary>More about myself</summary>
   
 
                  
-¿¿¿                        ???
+¿
                     
                   
 </details>
