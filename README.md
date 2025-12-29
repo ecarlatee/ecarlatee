@@ -6,10 +6,12 @@
 
 <details>
   <summary>More about myself</summary>
-  
-
+    - ■■  ■
+    - ■■■■■ 
+    - ■■■
+    - ■■■■
                  
-         ¿
+         
                     
                   
 </details>
