@@ -38,7 +38,6 @@
 ____
 
 
-##  [Contact]
 
 
 <div align="center">
