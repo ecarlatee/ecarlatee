@@ -54,6 +54,8 @@ ____
   <img height="430" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
 </div>
 
+« The same architects of the software are writting are writing your story »
+
 
 
 
