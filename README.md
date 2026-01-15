@@ -5,14 +5,7 @@
 
 
 <details>
-  <summary>More about myself</summary>
-
-- ■■■■ : ■■■■■
-- ■■■■■ : ■■■■■■ ■■■■
-- ■■■■■■■■■■
-- ■■■■■ , ■■ ■■■, ■■■■■■■■
-- ■■■■■■■
-- ■■■■■■■ ■■■■■■■■ ■■■■■
+  <summary>More</summary>
 
 </details>
 
