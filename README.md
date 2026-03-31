@@ -41,7 +41,7 @@ ____
          - ecarlate@metasploit.io -
 ---
 <div align="center">
-  <img height="430" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
+  <img height="400" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
 </div>
 
 
