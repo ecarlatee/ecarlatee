@@ -39,7 +39,6 @@ ____
           The same architects of 
      the software are writing your story
 
-         - ecarlate@metasploit.io -
 ---
 <div align="center">
   <img height="350" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
