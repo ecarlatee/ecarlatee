@@ -40,6 +40,10 @@ ____
      the software are writing your story
 
 ---
+- **Discord**
+> [![Discord](https://lanyard.cnrad.dev/api/244120168278654976?hideSpotify=true&theme=dark)
+
+
 <div align="center">
   <img height="350" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
 </div>
