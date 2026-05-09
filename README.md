@@ -40,10 +40,7 @@ ____
      the software are writing your story
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/244120168278654976?hideSpotify=true&theme=dark&hideActivity=true&hideTimestamp=true&bg=000000)](https://discord.com/users/244120168278654976)
-<div align="center">
-  <img height="350" src="https://images2.alphacoders.com/136/thumb-1920-1360865.png"  />
-</div>
+[![Discord](https://lanyard.cnrad.dev/api/244120168278654976?hideSpotify=true&hideStatus=true)](https://discord.com/users/244120168278654976)
 
 
 
