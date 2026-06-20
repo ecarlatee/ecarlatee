@@ -39,8 +39,6 @@ ____
           The same architects of 
      the software are writing your story
 
----
-[![Discord](https://lanyard.cnrad.dev/api/244120168278654976?hideSpotify=true&hideStatus=true)](https://discord.com/users/244120168278654976)
 
 
 
