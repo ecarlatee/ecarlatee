@@ -30,8 +30,7 @@ ____
 
 
 
-          The same architects of 
-     the software are writing your story
+The same architects of the software are writing your story
 
 
 
